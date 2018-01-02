@@ -1,10 +1,3 @@
 <?php
 
-$_SESSION['name']='mohammad';
-echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index
- 
- 
- <?php
-
-$_SESSION['name']='mohammad';
-echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";echo \"php index fork test\";fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";echo "php index fork test";
+"sadas";
